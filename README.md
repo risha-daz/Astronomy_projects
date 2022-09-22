@@ -24,13 +24,13 @@ What this project explores:
 
 *Can we use ML to guess the type of galaxy? Yes! But again due to the sheer number of galaxies performing ML on the huge number of pixels in each image takes a lot of power. Thus we can use other factors:*
 
-**Colour indices** are the same types of colors we explored in the previous project. Studies of galaxy evolution tell us that spiral galaxies have younger star populations and therefore are 'bluer' (brighter at lower wavelengths). Elliptical galaxies have an older star population and are brighter at higher wavelengths ('redder').
+1. **Colour indices** are the same types of colors we explored in the previous project. Studies of galaxy evolution tell us that spiral galaxies have younger star populations and therefore are 'bluer' (brighter at lower wavelengths). Elliptical galaxies have an older star population and are brighter at higher wavelengths ('redder').
 
-**Eccentricity** approximates the shape of the galaxy by fitting an ellipse to its profile. Eccentricity is the ratio of the two axis (semi-major and semi-minor).
+2. **Eccentricity** approximates the shape of the galaxy by fitting an ellipse to its profile. Eccentricity is the ratio of the two axis (semi-major and semi-minor). 
 
-**Adaptive moments** are a measured quantity to describe the shape of a galaxy. They are used in image analysis to detect similar objects at different sizes and orientations.
+3. **Adaptive moments** are a measured quantity to describe the shape of a galaxy. They are used in image analysis to detect similar objects at different sizes and orientations.
 
-**Concentration** is similar to the luminosity profile of the galaxy, which measures what proportion of a galaxy's total light is emitted within what radius[^1] .
+4. **Concentration** is similar to the luminosity profile of the galaxy, which measures what proportion of a galaxy's total light is emitted within what radius[^1] .
 
 Out of these 4, I try to estimate the second parameter- the eccentricity.
 
