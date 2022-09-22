@@ -51,5 +51,5 @@ Similar to how earth weather is predicted, can we predict space weather? Yes. Ho
 - Thus in this project we use ARIMA or **A**uto**r**egressive **I**ntegrated **M**oving **A**verage to try and predict the next solar cycle.
 
 [^1]: Features important for classification of galaxies: https://www.coursera.org/learn/data-driven-astronomy
-[^2]: ttps://www.businessinsider.com/spacex-lost-starlink-satellites-orbit-geomagnetic-solar-storm-space-launch-2022-2?r=US&IR=T
+[^2]: https://www.businessinsider.com/spacex-lost-starlink-satellites-orbit-geomagnetic-solar-storm-space-launch-2022-2?r=US&IR=T
 [^3]: https://scied.ucar.edu/learning-zone/sun-space-weather/sunspot-cycle
